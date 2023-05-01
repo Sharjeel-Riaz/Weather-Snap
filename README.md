@@ -24,7 +24,7 @@ Weather Snap is a sleek and minimalist weather forecast app built with [Vite](ht
 ## Usage
 
 This section explains on how you can create your own local environment for
-[Weather Snap](https://github.com/Sharjeel-Riaz/Linear-Vision).
+[Weather Snap](https://github.com/Sharjeel-Riaz/Weather-Snap).
 
 - Go to OpenWeatherMap's website, make your account and open the following page:
   [API Keys](https://home.openweathermap.org/api_keys)
@@ -53,4 +53,4 @@ install` to download all the necessary dependencies
 
 ## Deployment
 
-- Visit the production envrionment here 👉🏻 [Weather Snap](My environment link here
+- Visit the production envrionment here 👉🏻 [Weather Snap](https://weather-snap.vercel.app/)
